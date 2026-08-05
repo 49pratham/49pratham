@@ -2,142 +2,188 @@
 
 # Hi, I'm Prathamesh 👋
 
-### Business Analyst • Data Analyst • Business Intelligence Enthusiast
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Business+Analyst;Data+Analyst;Business+Intelligence+Enthusiast;Turning+Data+Into+Business+Decisions)](https://git.io/typing-svg)
 
-I transform raw data into business decisions using SQL, Business Intelligence, and analytics.
+### Business Analyst • Data Analyst • Business Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathameshds/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/49pratham)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itspratham3515@gmail.com)
+I transform raw data into business decisions through SQL, Business Intelligence, and data storytelling.
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prathameshds/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/49pratham">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:itspratham3515@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=49pratham&style=for-the-badge&color=0e75b6)
 
 ---
 
-### Turning Data Into Business Decisions
+## Turning Data Into Business Decisions
 
-📊 30+ SQL Queries  
-📈 3 Stakeholder Dashboards  
-📑 20+ Business Analyses  
-🧠 SQL • PostgreSQL • Power BI • Python • Metabase
+📊 **30+ Production SQL Queries** &nbsp;&nbsp;|&nbsp;&nbsp;
+📈 **3 Stakeholder Dashboards** &nbsp;&nbsp;|&nbsp;&nbsp;
+📑 **20+ Business Analyses**
+
+**SQL • PostgreSQL • Power BI • Metabase • Python**
 
 </div>
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-I'm a final-year B.Tech student specializing in Artificial Intelligence and Data Science with a strong interest in Business Analytics and Business Intelligence.
+I'm a final-year B.Tech student specializing in Artificial Intelligence and Data Science with a strong focus on **Business Analysis**, **Business Intelligence**, and **Data Analytics**.
 
-I enjoy solving business problems through SQL, dashboards, and data storytelling. My recent work focuses on customer analytics, KPI engineering, cohort analysis, stakeholder reporting, and executive dashboards built using real-world ecommerce and SaaS datasets.
+I enjoy solving business problems through SQL, KPI engineering, stakeholder dashboards, and data storytelling. My recent projects focus on transforming ecommerce and SaaS datasets into actionable business insights that support better decision-making.
 
-Currently looking for opportunities in
+🎯 Currently looking for opportunities as:
 
-- Business Analysis
-- Data Analysis
-- Business Intelligence
-- Product Analytics
-
----
-
-# Tech Stack
-
-### Analytics
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+- Business Analyst
+- Data Analyst
+- Business Intelligence Analyst
+- Product Analyst
 
 ---
 
-# Featured Projects
+# 🛠 Tech Stack
+
+### 📊 Analytics & Business Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+### 💻 Programming
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+### 🧰 Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ## 📊 Stakeholder-Focused Business Intelligence Platform
 
-Designed an end-to-end BI solution with stakeholder-specific dashboards for executives, product managers, and sales teams.
+Designed an end-to-end Business Intelligence solution for executive, product, and sales stakeholders.
 
-**Highlights**
+### Highlights
 
-- 30+ production-style SQL queries
-- 3 interactive dashboards
-- KPI engineering
-- Executive reporting
-- Business documentation
+- ✅ Built **30+ production SQL queries**
+- ✅ Designed **3 stakeholder dashboards**
+- ✅ KPI Engineering
+- ✅ Executive Scorecards
+- ✅ Week-over-Week KPI Tracking
+- ✅ PRDs & Business Documentation
 
-**Tech**
+**Tech Stack**
 
-`PostgreSQL` `SQL` `Metabase` `GitHub` `Notion`
+`PostgreSQL` `SQL` `Metabase` `Business Intelligence`
 
-➡️ Repository:
+🔗 **Repository**
+
 https://github.com/49pratham/sql-stakeholder-dashboards
 
 ---
 
 ## 📈 Ecommerce Business Insights using SQL
 
-Analyzed customer retention, logistics performance, attribution, customer lifetime value, and conversion funnels using advanced SQL.
+Performed advanced SQL analysis to uncover customer, operational, and revenue insights.
 
-**Key Insights**
+### Key Findings
 
-- Customer retention dropped from **50% → 18%**
-- High-value customers generated **88% of revenue**
-- One carrier caused **54% of late deliveries**
+📉 Month-1 Retention fell from **50% → 18%**
 
-**Tech**
+💰 Customers spending **₹20,000+ generated 88% of total revenue**
 
-`PostgreSQL` `SQL` `Window Functions` `CTEs`
+🚚 One logistics partner accounted for **54% of all late deliveries**
 
-➡️ Repository:
+📦 Premium delivery delays exceeded **20%**
+
+**Tech Stack**
+
+`SQL` `PostgreSQL` `CTEs` `Window Functions` `Cohort Analysis`
+
+🔗 **Repository**
+
 https://github.com/49pratham/sql-business-insights
 
 ---
 
 ## 📉 B2C vs B2B Product Analytics
 
-Compared ecommerce and SaaS business models using advanced SQL and cohort analysis.
+Compared ecommerce and SaaS businesses using advanced SQL and Product Analytics.
 
-**Highlights**
+### Highlights
 
-- 10 advanced SQL analyses
-- Cohort analysis
-- NRR & GRR
-- Funnel analytics
-- Product analytics
+- ✅ 10 Advanced SQL Analyses
+- ✅ Cohort Analysis
+- ✅ Funnel Analytics
+- ✅ GRR & NRR Analysis
+- ✅ Customer Retention
+- ✅ Business Recommendations
 
-**Tech**
+**Tech Stack**
 
-`SQL` `PostgreSQL` `Analytics`
+`SQL` `PostgreSQL` `Business Analytics`
 
-➡️ Repository:
+🔗 **Repository**
+
 https://github.com/49pratham/sql-product-analytics
 
 ---
 
-# GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=49pratham&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=49pratham&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=49pratham&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=49pratham&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# GitHub Activity
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -147,25 +193,42 @@ https://github.com/49pratham/sql-product-analytics
 
 ---
 
-# Current Focus
 
-- Business Analysis
-- Product Analytics
-- Business Intelligence
-- Dashboard Development
-- Advanced SQL
-- Data Storytelling
+# 🎯 Current Focus
+
+- 📊 Business Analysis
+- 📈 Business Intelligence
+- 📉 Product Analytics
+- 👥 Customer Analytics
+- 📋 Stakeholder Reporting
+- 📊 Dashboard Development
+- 🗄️ Advanced SQL
+- 📖 Data Storytelling
 
 ---
 
-# Let's Connect
+# 📫 Let's Connect
 
-💼 LinkedIn
+<p align="center">
 
-https://www.linkedin.com/in/prathameshds/
+<a href="https://www.linkedin.com/in/prathameshds">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-📧 Email
+<a href="mailto:itspratham3515@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-itspratham3515@gmail.com
+</p>
 
-⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Data becomes valuable only when it helps someone make a better decision."*
+
+Feel free to explore my repositories, dashboards, SQL case studies, and business analytics projects.
+
+</div>
